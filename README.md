@@ -4,6 +4,6 @@
 
 I'm very very thankful to
 
-Professor Athar Ali Khan
+[**Professor Athar Ali Khan**](https://www.amu.ac.in/faculty/statistics-and-operations-research/athar-ali-khan)
 <br> **Department of Statistics and Operation Research**
 <br> **Aligarh Muslim University , Aligarh(202002)**
